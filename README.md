@@ -12,6 +12,7 @@ Please feel free to adjust the template and have fun generating you own document
 
 ### Prerequisites
 
++ Java installed
 + [Graphviz](https://graphviz.gitlab.io/) installed (needed to generate diagrams)
 
 ## Running
@@ -21,8 +22,8 @@ Execute the documentation generation by:
 
 The generated documentation can be found at:
 
-+ `/build/asciidoc/index.html (HTML website)
-+ `/build/asciidoc/index.pdf (PDF document)
++ `/build/asciidoc/index.html` (HTML website)
++ `/build/asciidoc/index.pdf` (PDF document)
 
 ## License
 
