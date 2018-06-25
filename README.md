@@ -6,6 +6,8 @@ Example project to demonstrate the use of Asciidoc to generate software document
 + [C4-model](https://c4model.com/)
 + Architecture Decision Records
 
+Generation of diagrams is supported using PlantUML.
+
 Please feel free to adjust the template and have fun generating you own documentation.
 
 ## Getting Started
